@@ -1,4 +1,4 @@
-# SQL_for_data_analyst
+# SQL for_data analyst
 This repository contains my daily SQL practice queries for Data Analyst preparation.
 
 ## Topics Covered:
@@ -13,3 +13,6 @@ This repository contains my daily SQL practice queries for Data Analyst preparat
 ## Tools used
 -MySQL
   
+## Leetcode solutions
+
+- Leetcode-175: [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
