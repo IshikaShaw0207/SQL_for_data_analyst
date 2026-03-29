@@ -1,4 +1,3 @@
-
 --Find all numbers that appear at least three times consecutively.
 
 --Approach: window function lag() is used in cte to find the previous two values. If both values is equal to num then that number appears three times consecutively.
