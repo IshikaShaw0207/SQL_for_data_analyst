@@ -20,3 +20,6 @@ This repository contains my daily SQL practice queries for Data Analyst preparat
 - Leetcode-177:[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/description/)
 - Leetcode-178:[Rank of the score](https://leetcode.com/problems/rank-scores/)
 - Leetcode -180:[Number appearing 3 times consequtively](https://leetcode.com/problems/consecutive-numbers/)
+- Leetcode -181:[Employees Earning more than the manager](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/)
+- Leetcode -182:[Removing duplicate emails](https://leetcode.com/problems/duplicate-emails/description/)
+- Leetcode -183:[Customers with null orders](https://leetcode.com/problems/customers-who-never-order/description/)
