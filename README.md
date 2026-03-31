@@ -24,3 +24,4 @@ This repository contains my daily SQL practice queries for Data Analyst preparat
 - Leetcode -182:[Removing duplicate emails](https://leetcode.com/problems/duplicate-emails/description/)
 - Leetcode -183:[Customers with null orders](https://leetcode.com/problems/customers-who-never-order/description/)
 - Leetcode -184:[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/description/)
+- Leetcode -185:[Department Top 3 Salaries](https://leetcode.com/problems/department-top-three-salaries/)
