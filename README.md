@@ -28,3 +28,4 @@ This repository contains my daily SQL practice queries for Data Analyst preparat
 - Leetcode -196:[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/)
 - Leetcode -197:[Rising temperature](https://leetcode.com/problems/rising-temperature/)
 - Leetcode -511:[Game Play Analysis 1](https://leetcode.com/problems/game-play-analysis-i/description/)
+-- Leetcode -577:[Employee Bonus](https://leetcode.com/problems/employee-bonus/description/)
