@@ -30,3 +30,4 @@ This repository contains my daily SQL practice queries for Data Analyst preparat
 - Leetcode -511:[Game Play Analysis 1](https://leetcode.com/problems/game-play-analysis-i/description/)
 - Leetcode -577:[Employee Bonus](https://leetcode.com/problems/employee-bonus/description/)
 - Leetcode -620:[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/)
+- Leetcode -262:[Trips and Users](https://leetcode.com/problems/trips-and-users/)
