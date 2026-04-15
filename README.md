@@ -32,3 +32,4 @@ This repository contains my daily SQL practice queries for Data Analyst preparat
 - Leetcode -620:[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/)
 - Leetcode -262:[Trips and Users](https://leetcode.com/problems/trips-and-users/)
 - Leetcode -601:[Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/)
+- Leetcode -626:[Exchange Seats](https://leetcode.com/problems/exchange-seats/description/)
