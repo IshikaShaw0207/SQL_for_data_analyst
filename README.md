@@ -33,3 +33,4 @@ This repository contains my daily SQL practice queries for Data Analyst preparat
 - Leetcode -262:[Trips and Users](https://leetcode.com/problems/trips-and-users/)
 - Leetcode -601:[Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/)
 - Leetcode -626:[Exchange Seats](https://leetcode.com/problems/exchange-seats/description/)
+- Leetcode -1070[Product Sale Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/description/)
